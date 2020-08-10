@@ -12,9 +12,10 @@
 ```
 结果：test acc: 0.9468
 
-####BERTForMaskedLM简单使用
+#### BERTForMaskedLM简单使用
+
 详见bert_for_MLM.py
 
-####BertForNextSentencePrediction简单使用
-详见bert_for_NSP.py
+#### BertForNextSentencePrediction简单使用
 
+详见bert_for_NSP.py
