@@ -9,6 +9,7 @@
 ``` text
 训练阶段：python test.py --train
 测试模型：python test.py --test
+```
 结果：test acc: 0.9468
 
 ####BERTForMaskedLM简单使用
